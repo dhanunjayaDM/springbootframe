@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "codeurjc.batch.data",
+    "type": "java.lang.String",
+    "description": "A description for 'codeurjc.batch.data'"
+  },
+  {
+    "name": "codeurjc.batch.attachment",
+    "type": "java.lang.String",
+    "description": "A description for 'codeurjc.batch.attachment'"
+  },
+  {
+    "name": "codeurjc.batch.notifications.email",
+    "type": "java.lang.String",
+    "description": "A description for 'codeurjc.batch.notifications.email'"
+  }
+]}
